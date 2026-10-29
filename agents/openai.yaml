@@ -1,0 +1,4 @@
+interface:
+  display_name: "Context Note Illustrator"
+  short_description: "基于对话与资料，逐主题生成统一风格的学习笔记插画"
+  default_prompt: "帮我生成一张笔记插画, 主题: 1. 主题一 2. 主题二 3. 主题三"
